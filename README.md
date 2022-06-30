@@ -1,6 +1,6 @@
 ```Profile ```
 
-Hi, this is **Siddarth Nandalan** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
+Hi, this is **Siddarth Nandalan** :wave:&#127997;
 
 I am a **student** currently studying **Business Analytics** at [University College London](https://www.ucl.ac.uk/) with aspirations to work with data to help businesses prosper. I am also a recent economics graduate from [Warwick University](https://warwick.ac.uk/). With a passion for programming and data analysis, I seek to approach projects with an inquistive and innovative mindset (some highlighted here on my page).
 
