@@ -2,8 +2,6 @@
 
 Hi, this is **Siddarth Nandalan** :wave:&#127997;
 
-I am a **student** currently studying **Business Analytics** at [University College London](https://www.ucl.ac.uk/) with aspirations to work with data to help businesses prosper. I am also a recent economics graduate from [Warwick University](https://warwick.ac.uk/). With a passion for programming and data analysis, I seek to approach projects with an inquistive and innovative mindset (some highlighted here on my page).
-
 - :ocean: [Coding Porfolio (**GitHub**, looks like you are already here)](https://github.com/sidnand24)
 - :rocket: [My Life Path (**LinkedIn**)](https://www.linkedin.com/in/siddarthnandalan/)
 
